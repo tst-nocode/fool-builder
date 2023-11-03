@@ -1,0 +1,15 @@
+{
+  "name": "@fool-builder/logger",
+  "version": "0.1.0",
+  "type": "module",
+  "sideEffects": false,
+  "main": "index.ts",
+  "license": "MIT",
+  "author": "rovoskarl <18600648467@163.com>",
+  "dependencies": {
+    "debug": "^4.3.4"
+  },
+  "devDependencies": {
+    "@types/debug": "^4.1.10"
+  }
+}

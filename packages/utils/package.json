@@ -1,0 +1,15 @@
+{
+  "name": "@fool-builder/utils",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "rovoskarl <18600648467@163.com>",
+  "sideEffects": false,
+  "type": "module",
+  "main": "index.ts",
+  "dependencies": {
+    "lodash-es": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.10"
+  }
+}

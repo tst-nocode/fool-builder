@@ -1,0 +1,15 @@
+{
+  "name": "@fool-builder/gssp",
+  "version": "0.1.0",
+  "type": "module",
+  "sideEffects": false,
+  "main": "index.ts",
+  "license": "MIT",
+  "author": "rovoskarl <18600648467@163.com>",
+  "devDependencies": {
+    "next": "14.0.1"
+  },
+  "peerDependencies": {
+    "next": "14.0.1"
+  }
+}

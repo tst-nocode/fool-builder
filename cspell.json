@@ -1,0 +1,28 @@
+{
+  "version": "0.2",
+  "words": [
+    "chakra",
+    "cofe",
+    "coord",
+    "gssp",
+    "tailwindcss",
+    "hocs",
+    "mdast",
+    "micromark",
+    "keyval",
+    "rovoskarl",
+    "lowcode",
+    "Menlo",
+    "middlewares",
+    "Mobi",
+    "monospace",
+    "rjsf",
+    "semibold",
+    "shallowequal",
+    "unist",
+    "upsert",
+    "vercel"
+  ],
+  "globRoot": "./..",
+  "ignorePaths": ["node_modules", ".github", ".vscode", "cspell.json"]
+}

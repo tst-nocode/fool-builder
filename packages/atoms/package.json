@@ -1,0 +1,21 @@
+{
+  "name": "@fool-builder/atoms",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "rovoskarl <18600648467@163.com>",
+  "sideEffects": true,
+  "type": "module",
+  "main": "index.ts",
+  "dependencies": {
+    "@chakra-ui/react": "^2.8.1",
+    "@fool-builder/core": "workspace:*",
+    "@fool-builder/form": "workspace:*",
+    "@fool-builder/md": "workspace:*",
+    "@fool-builder/types": "workspace:*",
+    "@fool-builder/ui": "workspace:*",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.34"
+  }
+}

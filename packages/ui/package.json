@@ -1,0 +1,19 @@
+{
+  "name": "@fool-builder/ui",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "rovoskarl <18600648467@163.com>",
+  "sideEffects": false,
+  "type": "module",
+  "main": "index.ts",
+  "dependencies": {
+    "@chakra-ui/react": "^2.8.1",
+    "@fool-builder/icons": "workspace:*",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.34",
+    "@types/react-test-renderer": "^18.0.5",
+    "react-test-renderer": "^18.2.0"
+  }
+}
